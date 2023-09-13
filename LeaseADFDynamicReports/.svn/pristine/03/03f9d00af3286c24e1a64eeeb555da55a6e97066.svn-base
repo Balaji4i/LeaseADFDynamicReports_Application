@@ -1,0 +1,18 @@
+# 
+com.fouriApps.model.AM.DynamicReports_AM_LABEL=Dynamic Reports Am
+com.fouriApps.model.ROVO.Projects_ROVO_LABEL=Projects Rovo
+com.fouriApps.model.ROVO.Property_ROVO_LABEL=Property Rovo
+com.fouriApps.model.ROVO.Report_ROVO_LABEL=Report Rovo
+com.fouriApps.model.STA.ReportFormat_STA_LABEL=Report Format Sta
+com.fouriApps.model.ROVO.Customer_ROVO_LABEL=Customer Rovo
+Search_Customer_displayName=Search Customer
+com.fouriApps.model.STA.ReportFormat_STA.SL_0_0=pdf
+com.fouriApps.model.STA.ReportFormat_STA.SL_0_1=PDF
+com.fouriApps.model.STA.ReportFormat_STA.SL_1_0=excel
+com.fouriApps.model.STA.ReportFormat_STA.SL_1_1=EXCEL
+com.fouriApps.model.STA.ReportFormat_STA.SL_2_0=word
+com.fouriApps.model.STA.ReportFormat_STA.SL_2_1=WORD
+com.fouriApps.model.ROVO.Buildings_ROVO_LABEL=Buildings Rovo
+com.fouriApps.model.ROVO.UnitsType_ROVO_LABEL=Units Type Rovo
+com.fouriApps.model.ROVO.Organizations_ROVO_LABEL=Organizations Rovo
+com.fouriApps.model.ROVO.SOA_Summary_ROVO_LABEL=Soa Summary Rovo
